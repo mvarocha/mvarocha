@@ -1,7 +1,7 @@
 ### Hey, I'm Marcus Rocha <img align="center" height="30em" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <a href="https://github.com/mvarocha">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvarocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvarocha&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvarocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvarocha&layout=compact&langs_count=8&theme=radical"/>
 
 <!--
 **mvarocha/mvarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

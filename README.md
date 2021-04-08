@@ -1,7 +1,7 @@
 ### Hey, I'm Marcus Rocha
 <a href="https://github.com/mvarocha">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvarocha&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvarocha&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvarocha&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvarocha&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 
 <!--
 **mvarocha/mvarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mvarocha/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mvarocha_/)
 [<img src = "https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.io/mvarocha)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvarocha&label=Profile%20views&color=00000c&style=flat" alt="mvarocha" /> </p>

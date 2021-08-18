@@ -19,4 +19,4 @@
   [<img src = "https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.io/mvarocha)
   [<img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:marcus.varocha@gmail.com)
   
-  
+  ![Snake animation](https://github.com/mvarocha/mvarocha/blob/output/github-contribution-grid-snake.svg)

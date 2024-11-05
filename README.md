@@ -6,6 +6,7 @@
 <a href="https://github.com/mvarocha">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvarocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvarocha&layout=compact&langs_count=8&theme=dark"/>
+</a>
   
 <div style="display: inline_block"><br>
 <!--  Frameworks  -->
